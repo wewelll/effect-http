@@ -1,5 +1,11 @@
 # effect-http
 
+## 0.82.0
+
+### Minor Changes
+
+- [`bc5331b`](https://github.com/sukovanej/effect-http/commit/bc5331bf972bd5aaa12ea565cf2af6c589f3b07b) Thanks [@wewelll](https://github.com/wewelll)! - update effect dependencies and remove @effect/schema dependency
+
 ## 0.81.0
 
 ### Minor Changes
